@@ -61,8 +61,9 @@ Pronto! O hub já detecta automaticamente todos os seus projetos.
 
 ## 📸 Screenshot
 
-![Project Hub v2.0](img/wend.png)
-
+![Project Hub v2.0 - Visual](img/wend.png)
+![Project Hub v2.0 - 📚 Recursos para Devs ](img/wend2.png)
+![Project Hub v2.0 - 🛠️ Configurações ](img/wend3.png)
 ---
 
 ## 🛠️ Tecnologias Utilizadas
