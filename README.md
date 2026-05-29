@@ -4,7 +4,7 @@
 
 Uma dashboard moderna e funcional em **um único arquivo PHP** que transforma sua pasta `htdocs` em um verdadeiro hub de desenvolvimento.
 
-![Project Hub Screenshot](img/screenshot.png)
+![Project Hub Screenshot](img/wend.png)
 
 ---
 
@@ -61,7 +61,7 @@ Pronto! O hub já detecta automaticamente todos os seus projetos.
 
 ## 📸 Screenshot
 
-![Project Hub v2.0](img/screenshot.png)
+![Project Hub v2.0](img/wend.png)
 
 ---
 
