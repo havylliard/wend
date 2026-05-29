@@ -1,6 +1,6 @@
 <?php
 // ================================================================
-//  XAMPP PROJECT HUB v2.0
+//  XAMPP PROJECT HUB v2.0 By Havylliard - https://heav1.com
 //  Coloque em: C:/xampp/htdocs/index.php
 // ================================================================
 
